@@ -20,6 +20,7 @@ Speech Enhancement (SE), Automatic Speech Recognition (ASR), Speech Synthesis, T
 
 - **Audiodec: An Open-Source Streaming High-Fidelity Neural Audio Codec**(2023), Yi-Chiao Wu et al. [[pdf]](https://arxiv.org/abs/2305.16608)
 
+<!-- TiCodec -->
 - **Fewer-token Neural Speech Codec with Time-invariant Codes**(2024), Yong Ren et al. [[pdf]](https://arxiv.org/abs/2310.00014)
 
 - **HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec**(2023), Dongchao Yang et al. [[pdf]](https://arxiv.org/abs/2305.02765)
@@ -34,6 +35,9 @@ Speech Enhancement (SE), Automatic Speech Recognition (ASR), Speech Synthesis, T
 
 - **ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**(2024), Yi-Chiao Wu et al. [[pdf]](https://arxiv.org/abs/2401.12160)
 
+- **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation**(2024), Hanzhao Li et al. [[pdf]](https://arxiv.org/pdf/2406.07422)
+
+
 ### Vocoder
 - **LPCNet: Improving Neural Speech Synthesis Through Linear Prediction**(2019), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/abs/1810.11846)
 
@@ -43,3 +47,8 @@ Speech Enhancement (SE), Automatic Speech Recognition (ASR), Speech Synthesis, T
 
 ### Interseting papers
 - **Learned Image Compression with Mixed Transformer-CNN Architectures**(2023), Jinming Liu et al. [[pdf]](https://arxiv.org/abs/2303.14978)
+
+<!-- Conference -->
+- **Challenges and opportunities for designing tactile codecs from audio codecs**(2017), Yi-Chiao Wu et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/7980643)
+
+
